@@ -1,4 +1,4 @@
-#You can get the dataset from kaggle.com
+#You can get the training dataset from kaggle.com
 
                                          CHAPTER-1 INTRODUCTION
 
